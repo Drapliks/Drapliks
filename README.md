@@ -2,7 +2,7 @@
 [![D-Youtube](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DrapliksDev)
 
 
-![](logo.png)
+![](d-title.png)
 
 # Information
 ### Name: Drapliks
