@@ -6,10 +6,10 @@
 
 # Information
 ### Name: Drapliks
-### Age: 12
+### Age: 13
 ### Main language: C#
 ### Languages: C#, Python, shell
-### OS: Windows 10(maybe soon linux)
+### OS: Arch Linux
 ### Interests: video games, gamedev, anime
 
 # Statistics:
