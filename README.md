@@ -11,8 +11,3 @@
 ### Languages: C#, Python, shell
 ### OS: Windows 11, Arch Linux, macOS
 ### Interests: video games, gamedev, anime
-
-# Statistics:
-![D-GitHub-stats](https://github-readme-stats.vercel.app/api?username=Drapliks&show_icons=true&theme=dark)
-
-![D-Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drapliks&layout=compact&theme=dark)
