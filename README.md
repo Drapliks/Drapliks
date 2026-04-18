@@ -9,5 +9,5 @@
 ### Age: 13
 ### Main language: C#, Python
 ### Languages: C#, Python, shell
-### OS: Windows 11, Arch Linux
+### OS: Arch Linux
 ### Interests: video games, gamedev, anime
